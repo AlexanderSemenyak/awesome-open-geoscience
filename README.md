@@ -1,3 +1,5 @@
+origin: https://github.com/softwareunderground/awesome-open-geoscience
+
 # Awesome Open Geoscience
 > Geoscience is [awesome](awesome.md).
 
